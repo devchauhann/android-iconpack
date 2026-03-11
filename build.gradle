@@ -1,13 +1,15 @@
 plugins {
-    id 'com.android.library'
+    id 'com.android.library' version '8.2.2'
+    id 'maven-publish'
 }
 
 android {
-    compileSdk 33
+    namespace "com.dev.iconpack"
+    compileSdk 34
 
     defaultConfig {
         minSdk 21
-        targetSdk 33
+        targetSdk 34
     }
 
     buildTypes {
@@ -19,5 +21,19 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+
+                groupId = 'com.github.devchauhann'
+                artifactId = 'iconpack'
+                version = '1.0.0'
+            }
+        }
     }
 }
