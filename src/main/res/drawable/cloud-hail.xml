@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>cloud-hail</name>
+    <category>weather</category>
+    <created>2026-03-11T11:07:49.416Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M20 16.5A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25'/><path d='M16 14.5a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z'/><path d='M12 16.5a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z'/><path d='M12 20.5a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z'/><path d='M16 18.5a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z'/><path d='M8 16.5a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z'/><path d='M8 20.5a.5.5 0 1 0-1 0 .5.5 0 0 0 1 0z'/></svg>
+  </svg>
+</icon>

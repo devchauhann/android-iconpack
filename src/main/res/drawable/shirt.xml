@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>shirt</name>
+    <category>general</category>
+    <created>2026-03-11T11:07:49.427Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M20 13c0 2-1 4-4 4H8c-3 0-4-2-4-4s1-4 4-4h1.5a2.5 2.5 0 0 1 5 0H16c3 0 4 2 4 4Z'/><path d='M16 17H8'/><path d='m7.5 9 1-9h7l1 9'/></svg>
+  </svg>
+</icon>

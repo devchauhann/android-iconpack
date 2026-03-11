@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>dna</name>
+    <category>health</category>
+    <created>2026-03-11T11:07:49.423Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 4.5A2.5 2.5 0 0 1 6.5 2h0A2.5 2.5 0 0 1 9 4.5v15A2.5 2.5 0 0 1 6.5 22h0A2.5 2.5 0 0 1 4 19.5v-15'/><path d='M15 4.5A2.5 2.5 0 0 1 17.5 2h0A2.5 2.5 0 0 1 20 4.5v15A2.5 2.5 0 0 1 17.5 22h0A2.5 2.5 0 0 1 15 19.5v-15'/><path d='M7 6h10'/><path d='M7 12h10'/><path d='M7 18h10'/></svg>
+  </svg>
+</icon>

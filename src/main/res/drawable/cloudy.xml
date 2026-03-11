@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>cloudy</name>
+    <category>weather</category>
+    <created>2026-03-11T11:07:49.416Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M17.5 19H7.5c-2.8 0-5-2.2-5-5s2.2-5 5-5h9c2.2 0 4 1.8 4 4s-1.8 4-4 4'/><path d='M16 19c2.8 0 5-2.2 5-5s-2.2-5-5-5c-.3 0-.5 0-.8.1'/></svg>
+  </svg>
+</icon>

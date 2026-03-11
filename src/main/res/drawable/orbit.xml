@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>orbit</name>
+    <category>general</category>
+    <created>2026-03-11T11:07:49.426Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='3'/><path d='M10 20.5c-5-2.2-5-14.8 0-17'/><path d='M14 3.5c5 2.2 5 14.8 0 17'/></svg>
+  </svg>
+</icon>

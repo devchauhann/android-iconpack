@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>snowflake</name>
+    <category>weather</category>
+    <created>2026-03-11T11:07:49.417Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M12 2v20'/><path d='m4.93 4.93 14.14 14.14'/><path d='m4.93 19.07 14.14-14.14'/><path d='M2 12h20'/><path d='m7.76 4.93 2.83 2.83'/><path d='m13.41 16.24 2.83 2.83'/><path d='m7.76 19.07 2.83-2.83'/><path d='m13.41 7.76 2.83-2.83'/></svg>
+  </svg>
+</icon>

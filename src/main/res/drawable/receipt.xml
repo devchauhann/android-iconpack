@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>receipt</name>
+    <category>business</category>
+    <created>2026-03-11T11:07:49.394Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2L4 2z'/><path d='M8 6h8'/><path d='M8 10h8'/><path d='M8 14h8'/></svg>
+  </svg>
+</icon>

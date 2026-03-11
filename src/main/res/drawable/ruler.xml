@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>ruler</name>
+    <category>education</category>
+    <created>2026-03-11T11:07:49.419Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M16 22l-4-4 4-4 4 4-4 4Z'/><path d='M16 18v-4h4'/><path d='M16 18h-4v4'/><path d='M20 2v4h-4'/><path d='M22 6h-4V2'/><path d='M22 6V2h-4'/><path d='M4 12V8h4'/><path d='M2 10V8h4'/><path d='M2 10h4V8'/><path d='M10 4h4V2'/><path d='M8 2h4v2'/><path d='M8 2v2h4'/><path d='M4 4h16'/><path d='M4 8h2'/><path d='M4 12h2'/><path d='M8 4V2'/><path d='M12 4V2'/><path d='M8 4h12'/><path d='M12 8h8'/><path d='M12 12h8'/></svg>
+  </svg>
+</icon>

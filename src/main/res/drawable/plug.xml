@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>plug</name>
+    <category>development</category>
+    <created>2026-03-11T11:07:49.429Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M12 22v-5'/><path d='M9 14v-4'/><path d='M15 14v-4'/><path d='M8 10h8'/><path d='M7 17v-3a5 5 0 0 1 5-5h0a5 5 0 0 1 5 5v3'/></svg>
+  </svg>
+</icon>

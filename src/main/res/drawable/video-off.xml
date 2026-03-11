@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon>
+  <metadata>
+    <name>video-off</name>
+    <category>media</category>
+    <created>2026-03-11T11:07:49.402Z</created>
+  </metadata>
+  <svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><line x1='1' y1='1' x2='23' y2='23'></line><path d='M16 16v-4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h7.34m4.29-2.93 5.37-4.03v-1.1L20 9.27M12 12H2'></path></svg>
+  </svg>
+</icon>
